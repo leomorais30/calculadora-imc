@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 22px;
+    border-radius: 21px;
+    border-color: fuchsia;
+    color:rgb(0, 0, 0);
+    margin: 30px 08px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    background-color: fuchsia;
+}
+
+button{
+    background-color: fuchsia;
+}
+#resultado{
+    background-color: fuchsia;
+    color: aliceblue;
+}
